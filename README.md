@@ -6,7 +6,7 @@ Prerequisites:
   - .java file  with the needed internal structure
   
 Usage: 
-  from terminal run: ./gen_project.sh <modelVersion> <groupId> <artifactId> <version> <packaging>
+  from terminal run: ./gen_project.sh {modelVersion} {groupId} {artifactId} {version} {packaging}
   
   example:  ./gen_project.sh 4.0.0  org.apache.maven  my-app  3.0.0  jar
  
